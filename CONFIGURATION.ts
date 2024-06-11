@@ -1,5 +1,5 @@
 export const AIRTABLE_BASE = 'apphNsrk4Re3sfGxo';
-export const AIRTABLE_API_KEY = 'keyyCB522llXkLKKE';
+export const AIRTABLE_API_KEY = 'patiDePf2OYk7qSj0.977da980203f98e3a44f52f410982140ce3785221748c77a6622b134468e7fb2'; // old key: 'keyyCB522llXkLKKE';
 export const AIRTABLE_DETAILS_FORM = 'https://airtable.com/embed/apphNsrk4Re3sfGxo/shrBLMz2DgkOrCu7Q'; // 'https://airtable.com/embed/shrBLMz2DgkOrCu7Q';
 
 export const MAPBOX_STYLE = 'mapbox://styles/otcrew/cljb7mpjw003c01o44gwegzv9' // 'mapbox://styles/atlasmedliq/cl59k9bun000y14rzt3yy5ljt';
