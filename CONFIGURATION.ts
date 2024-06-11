@@ -1,6 +1,6 @@
 export const AIRTABLE_BASE = 'apphNsrk4Re3sfGxo';
 export const AIRTABLE_API_KEY = 'keyyCB522llXkLKKE';
-export const AIRTABLE_DETAILS_FORM = 'https://airtable.com/embed/shrBLMz2DgkOrCu7Q';
+export const AIRTABLE_DETAILS_FORM = 'https://airtable.com/embed/apphNsrk4Re3sfGxo/shrBLMz2DgkOrCu7Q'; // 'https://airtable.com/embed/shrBLMz2DgkOrCu7Q';
 
 export const MAPBOX_STYLE = 'mapbox://styles/otcrew/cljb7mpjw003c01o44gwegzv9' // 'mapbox://styles/atlasmedliq/cl59k9bun000y14rzt3yy5ljt';
 export const MAPBOX_BASE_STYLE = 'mapbox://styles/otcrew/cljb7mpjw003c01o44gwegzv9' // 'mapbox://styles/atlasmedliq/ckiodibg82x1k17tcof8e9pmd';
